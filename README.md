@@ -2,7 +2,7 @@
 Python implementations of numerical methods and modeling
 
 
-## Fixed Point 
+## **Fixed Point** 
 
 A fixed point of a function `f(x)` is a value `x*` such that:
 
