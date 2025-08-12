@@ -30,6 +30,6 @@ then:
 
 ### Convergence Condition
 
-A practical check for convergence: `$|g'(x)| < 1$` near the fixed point.
+A practical check for convergence: `|g'(x)| < 1` near the fixed point.
 
 
