@@ -27,7 +27,4 @@ then:
 - Iteration will **converge** to that fixed point for any initial guess \( x_0 \).
 
 ### Convergence Condition
-A practical check for convergence:
-\[
-|g'(x)| < 1 \quad \text{near the fixed point.}
-\]
+A practical check for convergence: \( |g'(x)| < 1 \) near the fixed point.
